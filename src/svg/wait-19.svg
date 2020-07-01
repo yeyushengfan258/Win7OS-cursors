@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter959" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.1"/>
+  </filter>
+  <linearGradient id="linearGradient936" x1="17.941" x2="27.941" y1="22.44" y2="22.44" gradientTransform="matrix(-5.0564e-8 1.8333 -1.8333 -5.0564e-8 57.165 -27.041)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#abebe6" offset="0"/>
+   <stop stop-color="#0f6e69" offset=".50001"/>
+   <stop stop-color="#abebe6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient938" x1="41" x2="50" y1="36.478" y2="39" gradientTransform="matrix(5.5688e-8 -1.8333 1.8333 5.5688e-8 -49.973 99.343)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#3ce1d2" offset=".29824"/>
+   <stop stop-color="#3ce1d2" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m16 5a11 11 0 0 0-11 11 11 11 0 0 0 11 11 11 11 0 0 0 11-11 11 11 0 0 0-11-11zm0 4a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" filter="url(#filter959)" opacity=".35" style="paint-order:stroke fill markers"/>
+ <path d="m19.368 4.5352a11 11 15 0 0-6.1921-0.14664 11 11 15 0 0-7.7762 13.471 11 11 15 0 0 13.47 7.7797 11 11 15 0 0 7.7808-13.474 11 11 15 0 0-7.2821-7.6306zm-1.6137 3.3525a7.3331 7.3335 15 0 1 5.3535 5.2268 7.3331 7.3335 15 0 1-5.1871 8.9825 7.3331 7.3335 15 0 1-8.9786-5.1861 7.3331 7.3335 15 0 1 5.1827-8.9801 7.3331 7.3335 15 0 1 3.6295-0.04325z" fill="url(#linearGradient936)" style="paint-order:stroke fill markers"/>
+ <path d="m14.192 24.179a1.8333 1.8333 0 0 0 1.8333 1.8333c0.35896-5e-6 0.71236-0.01956 1.0634-0.05371 0.07833-0.0077 0.15472-0.02295 0.23273-0.03223 0.2637-0.03139 0.52604-0.06825 0.78417-0.11815 0.58687-0.11322 1.1569-0.2812 1.7151-0.48696 0.0678-0.02511 0.13693-0.04518 0.20409-0.07161 0.54651-0.21375 1.0724-0.47464 1.5791-0.77342 0.06248-0.03694 0.1245-0.07285 0.1862-0.11097 0.50633-0.3122 0.98969-0.66592 1.443-1.0599 0.02946-0.02565 0.05668-0.05286 0.08589-0.07882 0.16246-0.14422 0.32893-0.28241 0.48338-0.43683a1.8333 1.8333 0 0 0 0.27571-0.35806 1.8333 1.8333 0 0 0 0.0071-0.0072c1.4918-1.6184 2.5417-3.6605 2.8466-5.9761 0.71867-5.4586-2.742-10.635-8.0599-12.059a1.8333 1.8333 0 0 0-2.245 1.2962 1.8333 1.8333 0 0 0 1.2962 2.245c3.5681 0.95605 5.8531 4.3762 5.3709 8.0385-0.22657 1.721-1.0455 3.217-2.2164 4.3361-0.23787 0.22698-0.49228 0.43176-0.75551 0.62301-0.11008 0.07999-0.21486 0.16608-0.32942 0.2399-0.29501 0.19024-0.60587 0.34853-0.9238 0.49412-0.09912 0.04533-0.19218 0.10229-0.29362 0.14324-0.35536 0.14388-0.7281 0.24621-1.1028 0.333-0.08178 0.0187-0.15715 0.05204-0.23991 0.06801-0.46081 0.09025-0.93053 0.13962-1.4072 0.13962a1.8333 1.8333 0 0 0-1.8333 1.8333z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient938)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
